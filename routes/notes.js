@@ -1,6 +1,6 @@
 // Import all necessary files
 
-// GET Route for retriving all the notes
+// GET Route for retrieving all the notes
 
 // GET route for a specific note
 // 
