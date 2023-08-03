@@ -22,6 +22,10 @@ To access the deployed website, please visit [Note Taker](https://annie-note-tak
 
 This project is licensed under MIT. Please check LICENSE document in repository for more information.
 
+  ## Credit
+
+Frontend of application was starter code provided by University of Texas.
+
   ## Questions
 
   If you have any questions, feel free to reach me at [GitHub](https://github.com/Annie-McElroy) or via email at [annie.mcelroy8522@gmail.com](annie.mcelroy8522@gmail.com).
